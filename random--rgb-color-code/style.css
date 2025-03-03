@@ -1,0 +1,15 @@
+body{
+  text-align: center;
+  background-color: bisque;
+  
+}
+
+div{
+  height: 100px; 
+  width: 500px;
+  border: 1px solid black;
+  margin: auto;
+}
+button:hover{
+  background-color: yellow;
+}
